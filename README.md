@@ -1,0 +1,2 @@
+# FIPS_Investment_Decision_Project
+Usage of US Census Bureau FIPS (Federal Information Processing Standards, 11-Digit Code, concatenation of state, county, tract code) and area data (including, but not limited to Food Desert data, Eviction Rates, Social Vulnerability index) to make better informed decisions for investing (Real Estate, specifically) in a specific area (in the Houston area, specifically).
