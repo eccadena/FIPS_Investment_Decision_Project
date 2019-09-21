@@ -1,0 +1,374 @@
+School,Street,Zip,City,Rating,FIPS
+Frostwood Elementary School,12214 Memorial Drive,77024,Houston,10,48201430600
+Memorial Drive Elementary School,11202 Smithdale Road,77024,Houston,10,48201430400
+Rummel Creek Elementary School,625 Brittmoore Road,77079,Houston,10,48201450100
+Wilchester Elementary School,13618 Saint Marys Lane,77079,Houston,10,48201450200
+Bush Elementary School,13800 Westerloch Drive,77077,Houston,10,48201451601
+River Oaks Elementary School,2008 Kirby Drive,77019,Houston,10,48201411400
+West University Elementary School,3756 University Boulevard,77005,Houston,10,48201412400
+The School For Highly Gifted Students,8390 Westview Drive,77055,Houston,10,48201520700
+KIPP Gulfton Lower School,6700 Bellaire Boulevard,77074,Houston,10,48201421300
+Mandarin Chinese Language Immersio,5445 West Alabama Street,77056,Houston,10,48201432001
+Houston Gateway Academy,3400 Evergreen Drive,77087,Houston,9,48201332900
+Briarmeadow Charter School,3601 Dunvale Road,77063,Houston,9,48201432600
+Brookwood Elementary School,16850 Middlebrook Drive,77059,Houston,9,48201340203
+Bunker Hill Elementary School,11950 Taylorcrest,77024,Houston,9,48201430600
+Hunters Creek Elementary School,10650 Beinhorn Road,77024,Houston,9,48201430300
+Crockett Elementary School,2112 Crockett Street,77007,Houston,9,48201510200
+Field Elementary School,703 East 17th Street,77008,Houston,9,48201511302
+Kolter Elementary School,9710 Runnymeade Drive,77096,Houston,9,48201420700
+Oak Forest Elementary School,1401 West 43rd Street,77018,Houston,9,48201531100
+Park Place Elementary School,8235 Park Place Boulevard,77017,Houston,9,48201320200
+Parker Elementary School,10626 Atwell Drive,77096,Houston,9,48201422000
+Roberts Elementary School,6000 Greenbriar Drive,77030,Houston,9,48201412200
+Twain Elementary School,7500 Braes Boulevard,77025,Houston,9,48201413000
+Wharton Dual Language Academy,900 West Gray Street,77019,Houston,9,48201410200
+T H Rogers School,5840 San Felipe Street,77057,Houston,9,48201431501
+Houston Gateway Academy Inc Elite,3400 Evergreen Drive,77087,Houston,9,48201332900
+Kipp Shine Prep,6700 Bellaire Boulevard,77074,Houston,9,48201421300
+Kipp Sharp College Prep,6700 Bellaire Boulevard,77074,Houston,9,48201421300
+Amigos Por Vida-Friends For Life C,5503 El Camino Del Rey Street,77081,Houston,8,48201421102
+Danish Elementary School,11850 Fallbrook Drive,77065,Houston,8,48201552400
+Arlyne & Alan Weber Elementary School,11955 Blackhawk Boulevard,77089,Houston,8,48201350100
+Meador Elementary School,10701 Seaford Drive,77089,Houston,8,48201334001
+Holbrook Elementary School,6402 Langfield Road,77092,Houston,8,48201532300
+Copeland Elementary School,18018 Forest Heights Drive,77095,Houston,8,48201541201
+Hairgrove Elementary School,7120 North Eldridge Parkway,77041,Houston,8,48201540100
+Burbank Elementary School,216 Tidwell Road,77022,Houston,8,48201220600
+De Chaumes Elementary School,155 Cooper Road,77076,Houston,8,48201221200
+De Zavala Elementary School,7521 Avenue H,77012,Houston,8,48201311100
+Harvard Elementary School,810 Harvard Street,77007,Houston,8,48201510400
+Herod Elementary School,5627 Jason Street,77096,Houston,8,48201421700
+Lantrip Elementary School,100 Telephone Road,77023,Houston,8,48201310300
+Lovett Elementary School,8814 South Rice Avenue,77096,Houston,8,48201420800
+Sutton Elementary,7402 Albacore Drive,77074,Houston,8,48201422701
+White Elementary School,9001 Triola Lane,77036,Houston,8,48201433202
+Lyons Elementary School,800 Roxella Street,77076,Houston,8,48201221300
+Harmony School Of Achievement - Houston,16209 Kieth Harrow Boulevard,77084,Houston,8,48201541602
+James De Anda Elementary,7980 Almeda-Genoa Road,77075,Houston,8,48201333800
+Houston Gateway Academy - Coral Ca,1020 Coral Street,77012,Houston,8,48201311300
+Harmony School Of Discovery - Hous,6270 Barker Cypress Road,77084,Houston,8,48201541300
+School at St. George Place,5430 Hidalgo Street,77056,Houston,8,48201432001
+Moreno Elementary School,620 East Canino Road,77037,Houston,8,48201221600
+Ray Daily Elementary School,12909 Briar Forest Drive,77077,Houston,8,48201451401
+Harmony School Of Excellence,7340 Gessner Road,77040,Houston,8,48201534203
+Beatrice Mayes Institute Charter S,5807 Calhoun Road,77021,Houston,7,48201313400
+Falcon Pass Elementary School,2465 Falcon Pass,77062,Houston,7,48201340400
+Lee Elementary School,12900 West Little York Road,77041,Houston,7,48201540100
+Ketelsen Elementary School,600 Quitman Street,77009,Houston,7,48201212300
+Alief Montessori Community School,4215 H Street,77072,Houston,7,48201452500
+Outley Elementary School,12355 Richmond Avenue,77082,Houston,7,48201451902
+John F Ward Elementary School,1440 Bouldercrest Drive,77062,Houston,7,48201340800
+Valley Oaks Elementary School,8390 Westview Drive,77055,Houston,7,48201520700
+Adam Elementary School,11303 Honey Grove Lane,77065,Houston,7,48201552102
+Matzke Elementary School,13102 Jones Road,77070,Houston,7,48201552601
+Willbern Elementary School,10811 Goodspring Drive,77064,Houston,7,48201551703
+Moore Elementary School,13734 Lakewood Forest Drive,77070,Houston,7,48201554302
+Lowery Elementary School,15950 Ridge Park Drive,77095,Houston,7,48201541203
+Wilson Elementary School,18015 Kieth Harrow Boulevard,77084,Houston,7,48201541601
+Jacinto City Elementary School,10910 Wiggins Street,77029,Houston,7,48201233500
+Atherton Elementary School,2011 Solo Street,77020,Houston,7,48201211300
+Briargrove Elementary School,6145 San Felipe Street,77057,Houston,7,48201431302
+Cornelius Elementary School,7475 Westover Street,77087,Houston,7,48201332600
+Osborne Elementary School,800 Ringold Street,77088,Houston,7,48201533300
+Poe Elementary School,5100 Hazard Street,77098,Houston,7,48201411900
+Red Elementary School,4520 Tonawanda Drive,77035,Houston,7,48201420300
+Travis Elementary School,3311 Beauchamp Street,77009,Houston,7,48201510300
+Windsor Village Elementary School,14440 Polo Street,77085,Houston,7,48201330302
+Carrillo Elementary School,960 South Wayside Drive,77023,Houston,7,48201310800
+Sanchez Elementary School,2700 Berkley Street,77012,Houston,7,48201311600
+Rice School /La Escuela Rice,7550 Seuss Drive,77025,Houston,7,48201413202
+Beta Academy,9701 Almeda-Genoa Road,77075,Houston,7,48201333300
+School of Science and Technology Advancement,10550 Westoffice Drive,77042,Houston,7,48201432400
+Kipp East End,6700 Bellaire Boulevard,77074,Houston,7,48201421300
+Arrow-Champions Academy,2113 Cypress Landing Road,77090,Houston,7,48201550302
+Stepping Stones Charter Elementary School,11250 South Wilcrest Drive,77099,Houston,7,48201453402
+Kirk Elementary School,12421 Tanner Road,77041,Houston,6,48201540100
+Rodriguez Elementary School,5858 Chimney Rock Road,77081,Houston,6,48201421102
+Jean & Betty Schmalz Elementary School,18605 Green Land Way,77084,Houston,6,48201541900
+Tipps Elementary School,5611 Queenston Boulevard,77084,Houston,6,48201541500
+Univ Of Houston Charter School-Tech,3855 Holman Street,77004,Houston,6,48201312100
+Anderson Academy,7401 Wheatley Street,77088,Houston,6,48201533400
+Odom Elementary School,14701 Henry Road,77060,Houston,6,48201222402
+Raymond Academy,1605 Connorvale Road,77039,Houston,6,48201222800
+Petrosky Elementary School,6703 Winkleman Road,77083,Houston,6,48201454100
+Armand Bayou Elementary School,16000 Hickory Knoll Drive,77059,Houston,6,48201340302
+Clear Lake City Elementary School,1707 Fairwind Road,77062,Houston,6,48201340500
+Atkinson Elementary School,9602 Kingspoint Road,77075,Houston,6,48201334003
+Frazier Elementary School,10503 Hughes Road,77089,Houston,6,48201350200
+Royalwood Elementary School,7715 Royalwood Drive,77049,Houston,6,48201232401
+Nottingham Elementary School,570 Nottingham Oaks Trail,77079,Houston,6,48201450600
+Pat Reynolds Elementary School,3975 Gladeridge Drive,77068,Houston,6,48201553001
+Beneke Elementary School,3840 Briarchase Drive,77014,Houston,6,48201551100
+Post Elementary School,7600 Equador Street,77040,Houston,6,48201551800
+Hancock Elementary School,13801 Schroeder Road,77070,Houston,6,48201552700
+Yeager Elementary School,13615 Champion Forest Drive,77069,Houston,6,48201552800
+Owens Elementary School,7939 Jackrabbit Road,77095,Houston,6,48201540901
+Cimarron Elementary School,816 Cimarron Street,77015,Houston,6,48201233200
+North Shore Elementary School,14310 Duncannon Drive,77015,Houston,6,48201233003
+Pyburn Elementary School,12302 Coulson Street,77015,Houston,6,48201233300
+Woodland Acres Elementary School,12936 Sarahs Lane,77015,Houston,6,48201233300
+Purple Sage Elementary School,6500 Purple Sage Road,77049,Houston,6,48201232402
+Bell Elementary School,12323 Shaftsbury Drive,77031,Houston,6,48201440100
+Benbrook Elementary School,4026 Bolin Road,77092,Houston,6,48201520500
+Foster Elementary School,3919 Ward Street,77021,Houston,6,48201313600
+Garden Oaks Elementary School,901 Sue Barnett Drive,77018,Houston,6,48201531000
+Henderson J Elementary School,1800 Dismuke Street,77023,Houston,6,48201310700
+Jefferson Elementary School,5000 Sharman Street,77009,Houston,6,48201210600
+Macgregor El,4801 La Branch Street,77004,Houston,6,48201312600
+Memorial Elementary School,6401 Arnot Street,77007,Houston,6,48201510800
+Patterson Elementary School,5302 Allendale Road,77017,Houston,6,48201321700
+Pilgrim Academy,6302 Skyline Drive,77057,Houston,6,48201432701
+Mcnamara Elementary School,8714 McAvoy Drive,77074,Houston,6,48201422600
+Roosevelt Elementary School,6700 Fulton Street,77022,Houston,6,48201220200
+The Rusk School,2805 Garrow Street,77003,Houston,6,48201310100
+Sinclair Elementary School,6410 Grovewood Lane,77008,Houston,6,48201511002
+Southmayd Elementary School,1800 Coral Street,77012,Houston,6,48201311500
+Tijerina Elementary School,6501 Sherman Street,77011,Houston,6,48201310900
+Davila Elementary School,7610 Dahlia Street,77012,Houston,6,48201311500
+Mark White Elementary,2515 Old Farm Road,77063,Houston,6,48201431202
+Mary Austin Holley Elementary School,16655 Bissonnet Street,77083,Houston,6,48157672701
+Harvey S Brown Elementary School,16550 Wallisville Road,77049,Houston,6,48201252302
+Kipp Dream,6700 Bellaire Boulevard,77074,Houston,6,48201421300
+Two Dimensions/Vickery,12121 Veterans Memorial Drive,77067,Houston,5,48201550900
+Ser-Ninos Charter Elementary School,5815 Alder Drive,77081,Houston,5,48201421102
+Thompson Elementary School,220 Casa Grande Drive,77060,Houston,5,48201222503
+Johnson Elementary School,5801 Hamill Road,77039,Houston,5,48201232100
+Oleson Elementary School,12345 Vickery Street,77039,Houston,5,48201223002
+Sammons Elementary School,2301 Frick Road,77038,Houston,5,48201533802
+Conley Elementary School,3345 West Greens Road,77066,Houston,5,48201550800
+Calvert Elementary School,1925 Marvell Drive,77032,Houston,5,48201240400
+Mahanay Elementary School,13215 High Star Drive,77083,Houston,5,48201452600
+G. H.  Whitcomb Elementary School,900 Reseda Drive,77062,Houston,5,48201340700
+Sheldon Elementary School,17203 Hall Shepperd Road,77049,Houston,5,48201252200
+Meadow Wood Elementary School,14230 Memorial Drive,77079,Houston,5,48201450300
+Ridgecrest Elementary School,2015 Ridgecrest Drive,77055,Houston,5,48201520602
+Buffalo Creek Elementary School,2801 Blalock Road,77080,Houston,5,48201521300
+Meyer Elementary School,16330 Forest Way Drive,77090,Houston,5,48201550302
+Ponderosa Elementary School,17202 Butte Creek Road,77090,Houston,5,48201553100
+Lieder Elementary School,17003 Kieth Harrow Boulevard,77084,Houston,5,48201541602
+Frazier Elementary School,8300 Little River Road,77064,Houston,5,48201534100
+Emmott Elementary School,11750 Steeple Way Boulevard,77065,Houston,5,48201552001
+Fiest Elementary School,8425 Pine Falls Drive,77095,Houston,5,48201541100
+Bang Elementary School,8900 Rio Grande Drive,77064,Houston,5,48201551701
+Metcalf Elementary School,6100 Queenston Boulevard,77084,Houston,5,48201541400
+Reed Elementary School,8700 Tami Renee Lane,77040,Houston,5,48201534202
+Ridgegate Elementary School,6015 West Ridgecreek Drive,77053,Houston,5,48157670200
+Mission Bend Elementary School,16200 Beechnut Street,77083,Houston,5,48157672601
+Arizona Fleming Elementary School,14850 Bissonnet Street,77083,Houston,5,48157672400
+Cloverleaf Elementary School,1035 Frankie Street,77015,Houston,5,48201233103
+Green Valley Elementary School,13350 Woodforest Boulevard,77015,Houston,5,48201233101
+Tice Elementary School,14120 Wallisville Road,77049,Houston,5,48201232900
+James B Havard Elementary School,15150 Wallisville Road,77049,Houston,5,48201233002
+Herrera Elementary School,525 Bennington Street,77022,Houston,5,48201220300
+Berry Elementary School,2310 Berry Road,77093,Houston,5,48201220700
+Roderick R Paige Elementary School,7501 Curry Road,77093,Houston,5,48201220800
+Braeburn Elementary School,7707 Rampart St,77081,Houston,5,48201421700
+Briscoe Elementary School,321 Forest Hill Boulevard,77011,Houston,5,48201310900
+Browning Elementary School,607 Northwood Street,77009,Houston,5,48201511600
+Cunningham Elementary School,5100 Gulfton Street,77081,Houston,5,48201421101
+Durham Elementary School,4803 Brinkman Street,77018,Houston,5,48201530900
+Eliot Elementary School,6411 Laredo Street,77020,Houston,5,48201211900
+Emerson Elementary School,9533 Skyline Drive,77063,Houston,5,48201432500
+Frost Elementary School,5002 Almeda-Genoa Road,77048,Houston,5,48201330800
+Garden Villas Elementary School,7185 Santa Fe Drive,77061,Houston,5,48201333600
+Golfcrest Elementary School,7414 Fairway Drive,77087,Houston,5,48201332900
+Gregg Elementary School,6701 Roxbury Road,77087,Houston,5,48201332600
+Harris J R Elementary School,801 Broadway Street,77012,Houston,5,48201311400
+Janowski Elementary School,7500 Bauman Road,77022,Houston,5,48201220400
+Kennedy Elementary School,400 Victoria Drive,77022,Houston,5,48201530500
+Lewis Elementary School,6745 Tipperary Lane,77061,Houston,5,48201333500
+Longfellow Elementary School,3617 Norris Drive,77025,Houston,5,48201413300
+Mitchell Elementary School,10900 Gulfdale Drive,77075,Houston,5,48201333800
+Oates Elementary School,10044 Wallisville Road,77013,Houston,5,48201232600
+Peck Elementary School,5001 Martin Luther King Boulevard,77021,Houston,5,48201313300
+Pleasantville Elementary School,1431 Gellhorn Drive,77029,Houston,5,48201212500
+Scarborough Elementary School,3021 Little York Road,77093,Houston,5,48201222000
+Scroggins Elementary School,400 Boyles Street,77020,Houston,5,48201211900
+Walnut Bend Elementary School,10620 Briar Forest Drive,77042,Houston,5,48201450802
+Whidby Elementary School,7625 Springhill Street,77021,Houston,5,48201313800
+Cage Elementary School,4528 Leeland Street,77023,Houston,5,48201310300
+Valley West Elementary School,10707 South Gessner Road,77071,Houston,5,48201423302
+Mayde Creek Elementary School,2698 Greenhouse Road,77084,Houston,5,48201541900
+Eiland Elementary School,6700 North Klein Circle Drive,77088,Houston,5,48201532600
+Shadydale El,5905 Tidwell Road,77016,Houston,5,48201230700
+Texas Connections Academy at Houston,10550 Richmond Avenue,77042,Houston,5,48201452201
+Harmony Science Academy - Houston,5435 South Braeswood Boulevard,77096,Houston,5,48201421900
+Pat Neff Elementary,8301 Neff Street,77036,Houston,5,48201433300
+Harmony School Of Fine Arts And Te,9115 Kirby Drive,77054,Houston,5,48201314400
+Seguin Elementary School,5905 Waltrip Street,77087,Houston,4,48201332600
+Heritage Elementary School,12255 T C Jester Boulevard,77067,Houston,4,48201550601
+Gross Elementary School,12583 South Gessner Road,77071,Houston,4,48201551500
+Tinsley Elementary School,11035 Bob White Drive,77096,Houston,4,48201422402
+The Varnett School - East,5025 South Willow Drive,77035,Houston,4,48201420500
+Meyerpark Elementary School,13663 South Main Street,77035,Houston,4,48201330303
+Two Dimensions Preparatory Academy,12121 Veterans Memorial Drive,77067,Houston,4,48201550900
+Varnett Charter School,5025 South Willow Drive,77035,Houston,4,48201420500
+Carmichael Elementary School,6902 Silver Star Drive,77086,Houston,4,48201533901
+Carroll Academy,423 West Gulf Bank Road,77037,Houston,4,48201221600
+Ermel Elementary School,7103 Woodsman Trail,77040,Houston,4,48201532502
+Mendel Elementary School,3735 Topping Street,77093,Houston,4,48201230500
+Carter Academy,3111 Fallbrook Drive,77038,Houston,4,48201533801
+Chancellor Elementary School,4350 Boone Road,77072,Houston,4,48201452400
+Smith Elementary School,11300 Stancliff Road,77099,Houston,4,48201453402
+Heflin Elementary School,3303 Synott Road,77082,Houston,4,48201451901
+Rees Elementary School,16305 Kensley Drive,77082,Houston,4,48201454302
+Matthys Elementary School,"1500 Main Street, Sout",77587,Houston,4,48201100000
+Garfield Elementary School,10301 Hartsook Street,77034,Houston,4,48201321000
+Kipp Legacy Preparatory School,6700 Bellaire Boulevard,77074,Houston,4,48201421300
+L E Monahan Elementary School,8901 Deep Valley Drive,77044,Houston,4,48201232302
+Edgewood Elementary School,8757 Kempwood Drive,77080,Houston,4,48201521300
+Pine Shadows Elementary School,9900 Neuens Road,77080,Houston,4,48201522201
+Sherwood Elementary School,1700 Sherwood Forest Street,77043,Houston,4,48201543200
+Thornwood Elementary School,14400 Fern Drive,77079,Houston,4,48201450300
+Deloras E Thompson Elementary School,12470 Walters Road,77014,Houston,4,48201550401
+Francone Elementary School,11250 Perry Road,77064,Houston,4,48201551600
+Horne Elementary School,14950 West Little York Road,77084,Houston,4,48201540602
+Mission Glen Elementary School,16053 Mission Glen Drive,77083,Houston,4,48157672602
+Crespo Elementary School,7500 Office City Drive,77012,Houston,4,48201311600
+Gallegos Elementary School,7415 Harrisburg Boulevard,77011,Houston,4,48201310900
+Anderson Elementary School,5727 Ludington Drive,77035,Houston,4,48201422100
+Bastian Elementary School,5051 Bellfort Avenue,77033,Houston,4,48201332000
+Bonner Elementary School,8100 Elrod Street,77017,Houston,4,48201320602
+Burnet Elementary School,5403 Canal Street,77011,Houston,4,48201310500
+Burrus Elementary School,701 East 33rd Street,77022,Houston,4,48201530300
+Coop Elementary School,10130 Aldine Westfield Road,77093,Houston,4,48201221000
+Elrod Elementary School,6230 Dumfries Drive,77096,Houston,4,48201422500
+Franklin Elementary School,7101 Canal Street,77011,Houston,4,48201311000
+Helms Elementary School,503 West 21st Street,77008,Houston,4,48201511500
+Hobby Elementary School,4021 Woodmont Drive,77045,Houston,4,48201334100
+Isaacs Elementary School,3830 Pickfair Street,77026,Houston,4,48201211200
+Kashmere Gardens Elementary School,4901 Lockwood Drive,77026,Houston,4,48201211200
+Lockhart Elementary School,3200 Rosedale Street,77004,Houston,4,48201312900
+Pugh Elementary School,1147 Kress Street,77020,Houston,4,48201211500
+Ross Elementary School,2819 Bay Street,77026,Houston,4,48201210800
+Sherman Elementary School,1909 McKee Street,77009,Houston,4,48201212300
+Shadowbriar Elementary School,2650 Shadowbriar Drive,77077,Houston,4,48201452000
+Energized For Excellence Academy E,6201 Bissonnet Street,77081,Houston,4,48201421700
+Bear Creek Elementary School,4815 Hickory Downs Drive,77084,Houston,4,48201540502
+Epps Island Elementary School,7403 Smiling Woods Lane,77086,Houston,4,48201534002
+Greenwood Forest Elementary School,12100 Misty Valley Drive,77066,Houston,4,48201551200
+Kaiser Elementary School,13430 Bammel North Houston Road,77066,Houston,4,48201551000
+Kipp 3rd Ward School,6700 Bellaire Boulevard,77074,Houston,4,48201421300
+Kipp Sunnyside School,6700 Bellaire Boulevard,77074,Houston,4,48201421300
+Cypresswood Elementary School,14910 Aldine Westfield Road,77032,Houston,4,48201222700
+Helen Major Elementary School,16855 Sugar Pine Drive,77090,Houston,4,48201550302
+H M Carroll Elementary School,10210 C E King Parkway,77044,Houston,4,48201232302
+Southwest Schools Mangum El Campus,4515 Mangum Road,77092,Houston,4,48201531600
+Raul Yzaguirre School For Success,2950 Broadway Street,77017,Houston,4,48201320100
+Arrow Academy - Harvest Preparator,17770 Imperial Valley Drive,77060,Houston,4,48201240501
+Spence Elementary School,1300 Gears Road,77067,Houston,4,48201550200
+Southwest Elementary School,8440 Bissonnet Street,77074,Houston,4,48201422900
+Carolee Booker Elementary School,22352 Imperial Valley Drive,77073,Houston,4,48201240701
+Harris Academy,3130 Holder Forest Drive,77088,Houston,3,48201533200
+Robinson Elementary School,12425 Woodforest Boulevard,77013,Houston,3,48201232702
+The Varnett School - Northeast,5025 South Willow Drive,77035,Houston,3,48201420500
+Bethune Academy,2500 South Victory Drive,77088,Houston,3,48201533100
+Smith Academy,5815 West Little York Road,77091,Houston,3,48201532001
+Worsham Elementary School,3007 Hartwick Road,77093,Houston,3,48201222100
+Orange Grove Elementary School,4514 East Mount Houston Road,77093,Houston,3,48201533801
+Stephens Elementary School,2402 Aldine Mail Route Road,77039,Houston,3,48201222300
+Dunn Elementary School,2003 West West Thorne Drive,77073,Houston,3,48201240400
+Gray Elementary School,700 West Mount Houston Road,77038,Houston,3,48201533500
+Black Elementary School,160 Mill Stream Lane,77060,Houston,3,48201222501
+Martin Elementary School,11718 Hendon Lane,77072,Houston,3,48201453000
+Boone Elementary School,11400 Bissonnet Street,77099,Houston,3,48201453602
+Liestman Elementary School,7610 Synott Road,77083,Houston,3,48201452700
+Kennedy Elementary School,10200 Huntington Place Drive,77099,Houston,3,48201453502
+Chambers Elementary School,10700 Carvel Lane,77072,Houston,3,48201453100
+Youens Elementary School,12141 High Star Drive,77072,Houston,3,48201452500
+Cummings Elementary School,10455 South Kirkwood Road,77099,Houston,3,48201453403
+Alexander Elementary School,8500 Brookwulf Drive,77072,Houston,3,48201453700
+Hearne Elementary School,13939 Rio Bonito Road,77083,Houston,3,48201452600
+Hicks Elementary School,8520 Hemlock Hill Drive,77083,Houston,3,48201453900
+Bush Elementary School,9730 Stroud Drive,77036,Houston,3,48201433100
+Burnett Elementary School,11825 Teaneck Drive,77089,Houston,3,48201350500
+Freeman Elementary School,2323 Theta Street,77034,Houston,3,48201320900
+Genoa Elementary School,12900 Almeda-Genoa Road,77034,Houston,3,48201321100
+Jessup Elementary School,9301 Almeda-Genoa Road,77075,Houston,3,48201333300
+South Houston Elementary School,"900 Main Street, Sout",77587,Houston,3,48201100000
+Housman Elementary School,6705 Housman,77055,Houston,3,48201520300
+Spring Shadow Elementary School,9725 Kempwood Drive,77080,Houston,3,48201522100
+Terrace Elementary School,10400 Rothbury Street,77043,Houston,3,48201521900
+Cedar Brook Elementary School,2121 Ojeman Road,77080,Houston,3,48201521300
+Westwood Elementary School,10599 Hammerly Boulevard,77043,Houston,3,48201522402
+Bammel Elementary School,17309 Red Oak Drive,77090,Houston,3,48201553200
+Bane Elementary School,5805 Kaiser Street,77040,Houston,3,48201521700
+Blue Ridge Elementary School,6241 McHard Road,77053,Houston,3,48157670700
+Garcia Elementary School,9550 Aldine Westfield Road,77093,Houston,3,48201221000
+Martinez R Elementary School,7211 Market Street,77020,Houston,3,48201211500
+Alcott Elementary School,5859 Bellfort Avenue,77033,Houston,3,48201332400
+Almeda Elementary School,14226 Almeda School Road,77047,Houston,3,48201330900
+Barrick Elementary School,12001 Winfrey Lane,77076,Houston,3,48201221700
+Blackshear Elementary School,2900 Holman Street,77004,Houston,3,48201312400
+Durkee Elementary School,7301 Nordling Road,77076,Houston,3,48201221500
+Fondren Elementary School,12405 Carlsbad Street,77085,Houston,3,48201330303
+Grissom Elementary School,4900 Simsbrook Drive,77045,Houston,3,48201330400
+Harris R P Elementary School,1262 Mae Drive,77015,Houston,3,48201233300
+Hartsfield Elementary School,5001 Perry Street,77021,Houston,3,48201313400
+Houston Gardens Elementary School,6820 Homestead Road,77028,Houston,3,48201230200
+Law Elementary School,12401 South Coast Drive,77047,Houston,3,48201331500
+Looscan Elementary School,3800 Robertson Street,77009,Houston,3,48201210500
+Love Elementary School,1120 West 13th Street,77008,Houston,3,48201511301
+Mading Elementary School,8511 Crestmont Street,77033,Houston,3,48201332400
+Montgomery Elementary School,4000 Simsbrook Drive,77045,Houston,3,48201330500
+Northline Elementary School,821 East Witcher Lane,77076,Houston,3,48201221400
+Petersen Elementary School,14404 Waterloo Drive,77045,Houston,3,48201330600
+Piney Point Elementary School,8921 Pagewood Lane,77063,Houston,3,48201432500
+Reynolds Elementary School,9601 Rosehaven Drive,77051,Houston,3,48201331300
+Rucker Elementary School,5201 Vinett Street,77017,Houston,3,48201320500
+Shearn Elementary School,9802 Stella Link Road,77025,Houston,3,48201420200
+Thompson Elementary School,6121 Tierwester Street,77021,Houston,3,48201313200
+Stevens Elementary School,1910 Lamonte Lane,77018,Houston,3,48201531200
+Young Elementary School,3555 Bellfort Avenue,77051,Houston,3,48201331100
+Wainwright Elementary School,5330 Milwee Street,77092,Houston,3,48201531300
+Gregory-Lincoln Ed Center,1101 Taft,77019,Houston,3,48201410100
+Young Scholars Academy For Excelle,1809 Louisiana Street,77002,Houston,3,48201100000
+Maurice L Wolfe Elementary School,502 Addicks-Howell Road,77079,Houston,3,48201450500
+Nitsch Elementary School,4702 West Mount Houston Road,77088,Houston,3,48201533000
+Elmore El,8200 Tate Street,77028,Houston,3,48201230900
+Marshall El,6200 Winfield Road,77050,Houston,3,48201232000
+Draw Academy Upper Elementary School,3920 Stoney Brook Drive,77063,Houston,3,48201432600
+Thomas Hancock Elementary School,9604 Minnesota St,77075,Houston,3,48201333300
+The Rhodes School - NW,6601 Antoine Drive,77091,Houston,3,48201532001
+International Leadership of Texas El - Westpark,15300 Bellaire Boulevard,77083,Houston,3,48201454100
+Reagan K-8 Educational Center,4842 Anderson Road,77053,Houston,3,48201330400
+Harmony School of Excellence - Endeavor,5668 West Little York Road,77091,Houston,3,48201532800
+Ser-Ninos Charter El Ii,5815 Alder Drive,77081,Houston,3,48201421102
+Garrett Elementary School,12017 Garrett Road,77044,Houston,3,48201232301
+The Rhodes School - Northshore,12818 Tidwell Road,77044,Houston,3,48201232302
+Phoenix School At Southwest School,3333 Bering Drive,77057,Houston,2,48201432702
+Collins Elementary School,9829 Town Park Drive,77036,Houston,2,48201433003
+Soar Center,4400 West 18th Street,77092,Houston,2,48201520500
+Kandy Stripe Academy,8701 Delilah Street,77033,Houston,2,48201331900
+Francis Elementary School,14815 Lee Road,77032,Houston,2,48201222700
+Goodman Elementary School,9325 Deer Trail Drive,77088,Houston,2,48201533500
+Stovall Academy,3025 Ellington Street,77088,Houston,2,48201533100
+Best Elementary School,10000 Centre Parkway,77036,Houston,2,48201433600
+Shadow Oaks Elementary School,1335 Shadowdale Drive,77043,Houston,2,48201522402
+Spring Branch Elementary School,1700 Campbell Road,77080,Houston,2,48201521100
+Woodview Elementary School,9749 Cedardale Drive,77055,Houston,2,48201522302
+Treasure Forest Elementary School,7635 Amelia Road,77055,Houston,2,48201520400
+Joan Link Elementary School,2815 Ridge Hollow Drive,77067,Houston,2,48201550601
+Ridgemont Elementary School,4910 Raven Ridge Drive,77053,Houston,2,48157670101
+Draw Academy,3920 Stoney Brook Drive,77063,Houston,2,48201432600
+Benavidez Elementary School,6262 Gulfton Street,77081,Houston,2,48201421202
+Ashford Elementary School,1815 Shannon Valley Drive,77077,Houston,2,48201451300
+Bonham Elementary School,8302 Braes River Drive,77074,Houston,2,48201422800
+Bruce Elementary School,510 Jensen Drive,77020,Houston,2,48201211400
+Codwell Elementary School,5225 Tavenor Lane,77048,Houston,2,48201331601
+Dogan Elementary School,4202 Liberty Road,77026,Houston,2,48201211100
+Kelso Elementary School,5800 Southmund Street,77033,Houston,2,48201332200
+Port Houston Elementary School,1800 McCarty Street,77029,Houston,2,48201211500
+Smith Elementary School,4802 Chrystell Lane,77092,Houston,2,48201531600
+Wesley Elementary School,800 Dillard Street,77091,Houston,2,48201530800
+Martinez C Elementary School,901 Hays Street,77009,Houston,2,48201210500
+Milne Elementary School,7800 Portal Drive,77071,Houston,2,48201423302
+Hiliard El,8115 East Houston Road,77028,Houston,2,48201231000
+Step Charter Ii,11250 South Wilcrest Drive,77099,Houston,2,48201453402
+Horn Elementary School,10734 Bissonnet Street,77099,Houston,2,48201453200
+Cook Jr Elementary School,7115 Lockwood Drive,77016,Houston,2,48201230400
+Admin Services,4250 Cook Road,77072,Houston,1,48201452500
+Sneed Elementary School,9855 Pagewood Lane,77042,Houston,1,48201432400
+Highland Hts Elementary School,865 Paul Quinn Street,77091,Houston,1,48201530800
+Pro-Vision Middle,4590 Wilmington Street,77051,Houston,1,48201331400
