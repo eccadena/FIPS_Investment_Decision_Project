@@ -17,6 +17,15 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
     <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+	<!-- insert header template-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Rent Risk Index</title>
+
+	<link rel="stylesheet" href="assets/demo.css">
+	<link rel="stylesheet" href="assets/header-basic-light.css">
+	<link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>
+	<!--end header template-->
     <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
     <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
     
@@ -35,8 +44,29 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
 </head>
 <body>    
-    
-            <div class="folium-map" id="map_9853e9b1674c47d5b4bf3b982f30d464" ></div>
+    <header class="header-basic-light">
+
+	<div class="header-limiter">
+
+		<h1><a href="/all_the_pie.html">Rent/<span>Risk</span></a></h1>
+
+		<nav>
+			<a href="/">Home</a>
+			<a href="/choro_svi_flood.html">Flood and SVI</a>
+			<a href="/choro_eviction_propvalue.html">Eviction and Prop Value</a>
+			<a href="/choro_food_desert.html">Food Desert</a>
+			<a href="/choro_poverty_schools.html">Poverty and Scools</a>
+			<a href="/choro_RRI.html">RRI</a>
+			<a href="/choro_RRI_2.html">RRI - 2</a>
+			
+			
+			
+		</nav>
+	</div>
+
+</header>            
+
+<div class="folium-map" id="map_9853e9b1674c47d5b4bf3b982f30d464" ></div>
         
 </body>
 <script>    
